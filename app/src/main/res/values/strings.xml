@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VisitorsApplication</string>
+
+    <string-array name="languages">
+        <item>Android</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>ios</item>
+        <item>UI/UX</item>
+        <item>Python</item>
+    </string-array>
+</resources>
